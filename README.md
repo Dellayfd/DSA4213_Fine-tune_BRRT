@@ -7,7 +7,20 @@ This project fine-tunes a pre-trained BERT model for toxic chat classification u
 
 1.  **Clone the repository (if applicable) or ensure you have the `main.py` file.**
 
-2.  **Install the required dependencies:**
+2. **Python & Environment
+
+This project was developed and tested on **Google Colab**, which provides:
+
+| Component | Version / Notes |
+|------------|-----------------|
+| **Python** | 3.10 (default in Colab as of 2025) |
+| **CUDA** | 12.x (for GPU acceleration) |
+| **cuDNN** | Preinstalled in Colab |
+| **PyTorch** | Automatically installed with GPU support via `torch>=2.0.0` |
+
+If you are running locally, ensure your environment matches these requirements for consistent results.
+
+3.  **Install the required dependencies:**
 
    ### Core Libraries
 
