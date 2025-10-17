@@ -7,7 +7,7 @@ This project fine-tunes a pre-trained BERT model for toxic chat classification u
 
 1.  **Clone the repository (if applicable) or ensure you have the `main.py` file.**
 
-2. **Python & Environment
+2. **Python & Environment**
 
 This project was developed and tested on **Google Colab**, which provides:
 
